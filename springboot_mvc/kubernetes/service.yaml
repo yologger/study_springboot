@@ -1,0 +1,49 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: springboot-mvc
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: springboot-mvc
+  namespace: springboot-mvc
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: springboot-mvc
+      name: springboot-mvc
+  template:
+    metadata:
+      labels:
+        app: springboot-mvc
+        name: springboot-mvc
+      name: springboot-mvc
+    spec:
+      containers:
+        - command:
+            - java
+            - '-jar'
+            - 'application.jar'
+          image: springboot_mvc:staging
+          name: springboot-mvc
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: springboot-mvc
+  namespace: springboot-mvc
+spec:
+  selector:
+    app: springboot-mvc
+    name: springboot-mvc
+  ports:
+    - name: app
+      port: 5000
+      protocol: TCP
+      targetPort: 5000
+    - name: http
+      port: 80
+      protocol: TCP
+      targetPort: 5000

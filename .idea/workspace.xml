@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8886520-db61-4dc0-a2fa-a52741cca789" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/src/main/kotlin/com/yologger/study/springboot_jpa/App.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/src/main/kotlin/com/yologger/study/springboot_jpa/controller/TestController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/src/main/kotlin/com/yologger/study/springboot_jpa/entity/Board.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/src/main/kotlin/com/yologger/study/springboot_jpa/entity/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_jpa/src/test/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_querydsl/src/test/kotlin/com/yologger/study/springboot_querydsl/repository/BoardJpaRepositoryTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_querydsl/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_querydsl/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_querydsl/src/main/kotlin/com/yologger/study/springboot_querydsl/entity/Board.kt" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_querydsl/src/main/kotlin/com/yologger/study/springboot_querydsl/entity/Board.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_querydsl/src/main/kotlin/com/yologger/study/springboot_querydsl/entity/Product.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_querydsl/src/main/kotlin/com/yologger/study/springboot_querydsl/entity/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_querydsl/src/main/kotlin/com/yologger/study/springboot_querydsl/entity/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_querydsl/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_querydsl/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_querydsl/src/test/kotlin/com/yologger/study/springboot_querydsl/SpringbootQuerydslApplicationTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_querydsl/src/test/kotlin/com/yologger/study/springboot_querydsl/AppTests.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_querydsl/src/test/kotlin/com/yologger/study/springboot_querydsl/entity/BoardTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_querydsl/src/test/kotlin/com/yologger/study/springboot_querydsl/entity/BoardTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_querydsl/src/test/kotlin/com/yologger/study/springboot_querydsl/entity/ProductTest.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2qWE8AA3DyxAGd9GA6MMZWZneI6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/paul/Workspace/yologger/study/study_springboot",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8886520-db61-4dc0-a2fa-a52741cca789" name="Changes" comment="" />
+      <created>1734769769376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734769769376</updated>
+      <workItem from="1734769770474" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
